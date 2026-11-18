@@ -20,8 +20,7 @@ I'm interested in building efficient software and understanding the systems behi
 
 ### About me
 - Double Degree in Computer Engineering and Mathematics at UAM
-- Participant in the Ada Byron Programming Contest (2025, 2026)
-- Qualified for SWERC 2026 with the UAM team
+- Participant various programming competitions like SWERC
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/juan-ibanez-villanueva)
