@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**JuanIV/JuanIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics and Computer Science student at **Universidad Autónoma de Madrid (UAM)**.
 
-Here are some ideas to get you started:
+I'm interested in building efficient software and understanding the systems behind it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Software engineering and backend development
+- Algorithms and data structures
+- Systems programming and computer architecture
+- Performance analysis and low-level optimization
+
+### Languages
+- **C++**, **Java**, **C**
+- **Python**, **SQL**
+
+### Tools
+- Git
+- Linux
+
+### About me
+- Double Degree in Computer Engineering and Mathematics at UAM
+- Participant in the Ada Byron Programming Contest (2025, 2026)
+- Qualified for SWERC 2026 with the UAM team
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/juan-ibanez-villanueva)
